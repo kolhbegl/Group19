@@ -1,1 +1,0 @@
-print("Adam said to try one on my own so I'm submitting this in.")
